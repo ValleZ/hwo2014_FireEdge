@@ -1,1 +1,2 @@
-## Java bot template for HWO 2014
+## FireEdge bot for HWO 2014
+https://helloworldopen.com/
